@@ -1,0 +1,17 @@
+{
+  "name": "dev-cycle",
+  "description": "Widgets built using Timbits",
+  "version": "0.0.1",
+  "dependencies": {
+    "timbits": "0.7.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
